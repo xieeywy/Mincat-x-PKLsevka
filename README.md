@@ -1,4 +1,4 @@
-MINCAT × PKLSEVKA
+#MINCAT × PKLSEVKA
 
 Kenali Potensi, Temukan Peluang.
 
