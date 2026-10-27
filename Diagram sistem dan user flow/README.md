@@ -1,4 +1,5 @@
 Perancangan Sistem — Mincat × PKLsevka
+---
 
 1. Deskripsi
 Dokumen perancangan sistem ini menjelaskan gambaran alur kerja dan rancangan penggunaan Mincat × PKLsevka. Perancangan dibuat sebagai acuan dalam pengembangan platform yang berfokus pada penyediaan informasi referensi tempat Praktik Kerja Lapangan (PKL) serta penyajian portofolio keterampilan siswa.
@@ -11,22 +12,12 @@ Perancangan sistem bertujuan untuk:
 - Menjadi acuan dalam proses implementasi dan pengembangan fitur.
 - Membantu tim memahami hubungan antara kebutuhan pengguna dan rancangan sistem.
 - Mempermudah proses evaluasi dan pengembangan sistem pada tahap berikutnya.
-
-3. Komponen Perancangan
-   
-3.1 Diagram Sistem
-Diagram sistem digunakan untuk memberikan gambaran umum mengenai komponen yang terlibat dalam platform serta hubungan antarbagian sistem.
-Dokumen : Diagram-sistem.png
-
-3.2 User Flow
-User flow menggambarkan tahapan yang dilalui pengguna ketika berinteraksi dengan platform, mulai dari mengakses halaman hingga menggunakan fitur yang tersedia.
-Dokumen : user-flow.png
-
-4. Pengembangan Selanjutnya
-
+  
+3. Pengembangan Selanjutnya
 Pengembangan perancangan sistem dapat mencakup penyempurnaan alur pengguna, pendetailan hak akses, rancangan pengelolaan data, serta pengujian kesesuaian rancangan dengan implementasi website.
 yang jelas bagi anggota tim, penguji, dan pihak yang ingin memahami Mincat × PKLsevka.
  
 ---
 Status dokumen: Dokumentasi perancangan sistem
-Terakhir diperbarui: [Tanggal pembaruan]
+
+Terakhir diperbarui : 27 Oktober 2026
