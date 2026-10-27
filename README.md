@@ -78,7 +78,9 @@ Pengembangan selanjutnya dapat diarahkan pada:
 👨‍💻 Tim Pengembang
 
 Nama Tim: Smitty Werbenjagermanjensen
+
 Ketua Tim | Ahmad Syahrul Gunawan
+
 Anggota Tim | Fallen Pradita
 
 🏆 Kompetisi
