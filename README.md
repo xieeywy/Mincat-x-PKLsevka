@@ -63,8 +63,7 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 
 Isi bagian ini berdasarkan teknologi yang benar-benar digunakan dalam proyek.
 
-🚀 Demo Website
-Website demo: https://mincat.my.id
+🚀 Demo Website : https://mincat.my.id
 
 🗺️ Rencana Pengembangan lanjutan
 Pengembangan selanjutnya dapat diarahkan pada:
