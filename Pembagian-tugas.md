@@ -1,4 +1,4 @@
-Pembagian Tugas Tim Mincat × PKLsevka
+#Pembagian Tugas Tim Mincat × PKLsevka#
 
 1. Informasi Tim
 - Nama proyek: Mincat × PKLsevka
