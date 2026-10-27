@@ -1,4 +1,5 @@
-#Pembagian Tugas Tim Mincat × PKLsevka#
+  #Pembagian Tugas Tim Mincat × PKLsevka#
+---
 
 1. Informasi Tim
 - Nama proyek: Mincat × PKLsevka
@@ -11,12 +12,17 @@
 Dokumen ini disusun untuk menjelaskan pembagian tanggung jawab setiap anggota tim dalam proses perencanaan, perancangan, pengembangan, pengujian, dan dokumentasi proyek Mincat × PKLsevka. Pembagian tugas bertujuan agar setiap pekerjaan memiliki penanggung jawab yang jelas, mengurangi tumpang tindih pekerjaan, serta mendukung penyelesaian proyek sesuai target yang telah ditetapkan.
 
 3. Daftar Anggota dan Tanggung Jawab
+   
 1| Ahmad Syahrul Gunawan| Ketua Tim / Project Coordinator | Menyusun Proposal dan seluruh dokumen kebutuhan UINIC 8.0
+
 2| Fallen Pradita| Developer Website | UI/UX, Frontend, Backend, Devops.
 
-4. Mekanisme Koordinasi
+5. Mekanisme Koordinasi
+   
 1. Setiap anggota mengerjakan tugas berdasarkan kesepakatan dan target waktu tim.
+   
 2. Kendala yang berpotensi menghambat target disampaikan kepada ketua tim dan anggota terkait.
+   
 3. Setiap anggota saling membantu untuk meringankan dan mempercepat tugas anggota lainnya.
 
 ---
