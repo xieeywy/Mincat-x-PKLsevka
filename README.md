@@ -1,4 +1,4 @@
-#MINCAT × PKLSEVKA
+##MINCAT × PKLSEVKA
 ---
 
 Mincat merepresentasikan sebuah perjalanan untuk menemukan potensi dan membuka peluang masa depan. Nama ini membawa gagasan bahwa setiap siswa memiliki kemampuan dan minat yang dapat dikembangkan apabila terhubung dengan kesempatan yang tepat. Melalui penyediaan referensi tempat PKL dan ruang portofolio digital, Mincat berupaya menjembatani potensi siswa dengan kebutuhan dunia industri. Mincat bukan hanya tentang menemukan tempat untuk belajar, tetapi juga tentang mempersiapkan diri untuk melangkah lebih jauh menuju masa depan.
@@ -61,12 +61,12 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 
 📚 Dokumentasi Proyek
 
-1. "Data PKL" (./DataPKL/)
-2. "Diagram Sistem dan User Flow" (./Diagramsistemdanuserflow/)
-3. "Dokumentasi Website" (./Dokumentasi0website/)
-4. "Riset Kebutuhan Pengguna" (./riset-kebutuhan-pengguna/)
-5. "Tim dan Kontribusi" (./tim-dan-kontribusi/)
-   
+- [Data PKL](./Data%20PKL/)
+- [Diagram Sistem dan User Flow](./Diagram%20sistem%20dan%20user%20flow/)
+- [Dokumentasi Website](./Dokumentasi%20website/)
+- [Riset Kebutuhan Pengguna](./riset-kebutuhan-pengguna/)
+- [Tim dan Kontribusi](./tim%20dan%20kontribusi/)
+  
 🚀 Demo Website : https://mincat.my.id
 
 🗺️ Rencana Pengembangan lanjutan
@@ -92,4 +92,4 @@ Proyek ini dikembangkan untuk mengikuti UINIC 8.0 Web Development Competition.
 ---
 
 MINCAT × PKLSEVKA
-Kenali Potensi, Temukan Peluang.
+find & be your journey
