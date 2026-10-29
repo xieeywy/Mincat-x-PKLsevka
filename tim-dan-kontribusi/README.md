@@ -7,6 +7,7 @@ Project Mincat x PKLsevka dikembangkan oleh 2 developer utama
 - Fallen Pradita
 
 Tim Smitty Werbenjagermanjensen asal sekolah SMK NEGERI 7 KENDAL
+
 Tim ini disiapkan untuk mengikuti kompetisi Web development UINIC 8.0 
 
 3. Tujuan Dokumentasi
