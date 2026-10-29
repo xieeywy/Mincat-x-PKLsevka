@@ -1,4 +1,4 @@
-#MINCAT × PKLSEVKA#
+#MINCAT × PKLSEVKA
 ---
 
 Mincat merepresentasikan sebuah perjalanan untuk menemukan potensi dan membuka peluang masa depan. Nama ini membawa gagasan bahwa setiap siswa memiliki kemampuan dan minat yang dapat dikembangkan apabila terhubung dengan kesempatan yang tepat. Melalui penyediaan referensi tempat PKL dan ruang portofolio digital, Mincat berupaya menjembatani potensi siswa dengan kebutuhan dunia industri. Mincat bukan hanya tentang menemukan tempat untuk belajar, tetapi juga tentang mempersiapkan diri untuk melangkah lebih jauh menuju masa depan.
@@ -59,7 +59,17 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 - Framework/CMS : Wordpress 
 - Tools pengembangan: WordPress, Antigravity, Claude code, Chatgpt.
 
-Isi bagian ini berdasarkan teknologi yang benar-benar digunakan dalam proyek.
+Dokumentasi Proyek
+
+- "Data PKL" (./Data%20PKL/) — Referensi tempat PKL beserta informasi yang tersedia.
+- "Diagram Sistem dan User Flow" (./Diagram%20sistem%20dan%20user%20flow/) — Perancangan alur dan sistem Mincat.
+- "Dokumentasi Website" (./Dokumentasi%20website/) — Dokumentasi tampilan dan fitur website.
+- "Riset Kebutuhan Pengguna" (./riset-kebutuhan-pengguna/) — Ringkasan kebutuhan dan hasil survei pengguna.
+- "Tim dan Kontribusi" (./tim%20dan%20kontribusi/) — Pembagian tugas dan proses pengembangan.
+
+Status Pengembangan
+
+Mincat × PKLsevka merupakan proyek yang dikembangkan secara bertahap. Dokumentasi ini memuat perancangan, riset kebutuhan pengguna, referensi PKL, dan perkembangan website sesuai dengan tahap pengerjaan proyek.
 
 🚀 Demo Website : https://mincat.my.id
 
