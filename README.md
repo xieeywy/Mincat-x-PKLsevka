@@ -1,9 +1,7 @@
 #MINCAT × PKLSEVKA#
 ---
 
-Kenali Potensi, Temukan Peluang.
-
-Mincat × PKLsevka adalah platform berbasis website yang dirancang untuk membantu siswa SMKN 7 Kendal mengenali potensi diri melalui portofolio digital sekaligus memperoleh informasi mengenai Praktik Kerja Lapangan (PKL).
+Mincat merepresentasikan sebuah perjalanan untuk menemukan potensi dan membuka peluang masa depan. Nama ini membawa gagasan bahwa setiap siswa memiliki kemampuan dan minat yang dapat dikembangkan apabila terhubung dengan kesempatan yang tepat. Melalui penyediaan referensi tempat PKL dan ruang portofolio digital, Mincat berupaya menjembatani potensi siswa dengan kebutuhan dunia industri. Mincat bukan hanya tentang menemukan tempat untuk belajar, tetapi juga tentang mempersiapkan diri untuk melangkah lebih jauh menuju masa depan.
 
 Platform ini menghubungkan kebutuhan siswa dalam mempersiapkan diri memasuki dunia kerja dengan kebutuhan informasi PKL, dukungan guru, dan pengenalan kompetensi siswa kepada dunia industri.
 
