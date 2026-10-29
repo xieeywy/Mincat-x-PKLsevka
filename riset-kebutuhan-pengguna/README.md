@@ -27,3 +27,8 @@ Implikasi bagi Pengembangan Mincat
 Hasil survei menjadi dasar awal dalam menentukan prioritas pengembangan Mincat × PKLsevka, terutama pada fitur pencarian informasi PKL, rekomendasi tempat PKL berdasarkan jurusan atau keterampilan, serta portofolio digital siswa. Fitur-fitur tersebut diharapkan dapat membantu siswa memperoleh informasi PKL dan memperlihatkan kompetensi yang dimiliki.
 
 Hasil ini menggambarkan tanggapan responden yang berpartisipasi dan belum membuktikan efektivitas platform. Pengujian lebih lanjut tetap diperlukan untuk memastikan kesesuaian fitur dengan kebutuhan pengguna
+
+---
+Mincat x PKLsevka
+
+find & be your journey
