@@ -1,4 +1,4 @@
-Perancangan Sistem — Mincat × PKLsevka
+##Perancangan Sistem — Mincat × PKLsevka
 ---
 
 1. Deskripsi
@@ -18,6 +18,5 @@ Pengembangan perancangan sistem dapat mencakup penyempurnaan alur pengguna, pend
 yang jelas bagi anggota tim, penguji, dan pihak yang ingin memahami Mincat × PKLsevka.
  
 ---
-Status dokumen: Dokumentasi perancangan sistem
-
-Terakhir diperbarui : 27 Oktober 2026
+Mincat x PKLsevka
+find & be yout journey
