@@ -59,18 +59,14 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 - Framework/CMS : Wordpress 
 - Tools pengembangan: WordPress, Antigravity, Claude code, Chatgpt.
 
-Dokumentasi Proyek
+📚 Dokumentasi Proyek
 
-- "Data PKL" (./Data%20PKL/) — Referensi tempat PKL beserta informasi yang tersedia.
-- "Diagram Sistem dan User Flow" (./Diagram%20sistem%20dan%20user%20flow/) — Perancangan alur dan sistem Mincat.
-- "Dokumentasi Website" (./Dokumentasi%20website/) — Dokumentasi tampilan dan fitur website.
-- "Riset Kebutuhan Pengguna" (./riset-kebutuhan-pengguna/) — Ringkasan kebutuhan dan hasil survei pengguna.
-- "Tim dan Kontribusi" (./tim%20dan%20kontribusi/) — Pembagian tugas dan proses pengembangan.
-
-Status Pengembangan
-
-Mincat × PKLsevka merupakan proyek yang dikembangkan secara bertahap. Dokumentasi ini memuat perancangan, riset kebutuhan pengguna, referensi PKL, dan perkembangan website sesuai dengan tahap pengerjaan proyek.
-
+1. "Data PKL" (./DataPKL/)
+2. "Diagram Sistem dan User Flow" (./Diagramsistemdanuserflow/)
+3. "Dokumentasi Website" (./Dokumentasi0website/)
+4. "Riset Kebutuhan Pengguna" (./riset-kebutuhan-pengguna/)
+5. "Tim dan Kontribusi" (./tim-dan-kontribusi/)
+   
 🚀 Demo Website : https://mincat.my.id
 
 🗺️ Rencana Pengembangan lanjutan
