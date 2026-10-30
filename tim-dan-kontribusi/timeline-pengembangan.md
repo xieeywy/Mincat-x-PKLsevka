@@ -14,22 +14,24 @@ Timeline ini digunakan sebagai acuan pelaksanaan kegiatan proyek, mulai dari ide
 
 1 | Identifikasi Masalah | Mengidentifikasi kendala siswa dalam mencari informasi PKL dan menampilkan keterampilan. | Rumusan masalah dan tujuan proyek | 24 Oktober 2026 | SELESAI
 
-2 | Riset Pengguna| Melakukan survei atas masalah yang diangkat pada project ini. | 24 Oktober 2026 | SELESAI
+2 | Riset Pengguna | Melakukan survei atas masalah yang diangkat pada project ini. | 24 Oktober 2026 | SELESAI
 
 3 | Pengumpulan Data| Mengumpulkan dan memeriksa data referensi tempat PKL/IDUKA | 24 Oktober 2026 | SELESAI
 
 4 | Perancangan Sistem| Menyusun fitur, user flow, diagram sistem, dan rancangan antarmuka | 25 Oktober 2026 | SELESAI
 
-5 | Pengembangan Website| Mengimplementasikan fitur dan tampilan sesuai prioritas proyek | 24 Oktober 2026 - 29 Oktober 2026| On going
+5 | Pengembangan Website| Mengimplementasikan fitur dan tampilan sesuai prioritas proyek | 24 Oktober 2026 - 29 Oktober 2026| SELESAI
 
-6 | Pengujian | Menguji alur penggunaan, fungsi fitur, tampilan, dan validitas data | 28 Oktober 2026 | Pending
+6 | Pengujian | Menguji alur penggunaan, fungsi fitur, tampilan, dan validitas data | 28 Oktober 2026 | SELESAI
 
-7 | Perbaikan | Memperbaiki masalah yang ditemukan berdasarkan hasil pengujian | 28 Oktober 2026 | Pending
+7 | Perbaikan | Memperbaiki masalah yang ditemukan berdasarkan hasil pengujian | 28 Oktober 2026 | SELESAI
 
 8 | Dokumentasi | Melengkapi README, dokumentasi fitur, bukti pengembangan, dan dokumen pendukung | 25 Oktober 2026 – 27 Oktober 2026 | SELESAI
 
-9 | Finalisasi| Melakukan pemeriksaan akhir terhadap data yang dikumpulkan dan persiapan upload | 29 Oktober 2026 | Pending.
+9 | Finalisasi| Melakukan pemeriksaan akhir terhadap data yang dikumpulkan dan persiapan upload | 29 Oktober 2026 | SELESAI
 
 ---
 
-Terakhir diperbarui: 27 Oktober 2026 
+Mincat x PKLsevka
+
+find & be your journey
