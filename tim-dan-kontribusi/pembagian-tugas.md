@@ -9,9 +9,9 @@
   
 2. Daftar Anggota dan Tanggung Jawab
    
-1 | Ahmad Syahrul Gunawan| Ketua Tim / Project Coordinator | Menyusun Proposal dan seluruh dokumen kebutuhan UINIC 8.0
+- Ahmad Syahrul Gunawan | Ketua Tim / Project Coordinator | Menyusun Proposal dan seluruh dokumen kebutuhan UINIC 8.0
 
-2 | Fallen Pradita| Developer Website | UI/UX, Frontend, Backend, Devops.
+- Fallen Pradita | Developer Website | UI/UX, Frontend, Backend, Devops.
 
 ---
 
