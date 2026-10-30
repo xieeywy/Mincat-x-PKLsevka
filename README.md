@@ -66,7 +66,7 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 - [Dokumentasi Website](./Dokumentasi%20website/)
 - [Riset Kebutuhan Pengguna](./riset-kebutuhan-pengguna/)
 - [Tim dan Kontribusi](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/tim-dan-kontribusi)
-- [Akunu untuk juri](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/Akun-Juri)
+- [Akun untuk juri](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/Akun-Juri)
   
 🚀 Demo Website : https://mincat.my.id
 
