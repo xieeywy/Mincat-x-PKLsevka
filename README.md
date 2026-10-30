@@ -44,11 +44,9 @@ Membantu siswa menemukan informasi PKL berdasarkan kategori atau kriteria yang t
 Memungkinkan pihak industri melihat portofolio siswa yang telah dipublikasikan untuk mengenali kompetensi calon peserta PKL.
 
 👥 Target Pengguna
-
-Pengguna | Kebutuhan
-Siswa | Menampilkan kompetensi dan mencari informasi PKL.
-Guru | Meninjau portofolio serta mendampingi siswa dalam persiapan PKL.
-Dunia industri | Mengenali kompetensi siswa melalui portofolio yang dipublikasikan.
+- Siswa | Menampilkan kompetensi dan mencari informasi PKL.
+- Guru | Meninjau portofolio serta mendampingi siswa dalam persiapan PKL.
+- Dunia industri | Mengenali kompetensi siswa melalui portofolio yang dipublikasikan.
 
 🛠️ Teknologi yang Digunakan
 Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
@@ -73,19 +71,15 @@ Pengembangan selanjutnya dapat diarahkan pada:
 
 - Penyempurnaan fitur portofolio digital.
 - Peningkatan dan melengkapi pencarian informasi PKL.
-- Pengembangan pengalaman pengguna pada berbagai ukuran layar (Responsive).
 - Evaluasi berdasarkan masukan pengguna.
-- Pengembangan integrasi antara siswa, guru, dan dunia industri.
 
 👨‍💻 Tim Pengembang
+- Nama Tim: Smitty Werbenjagermanjensen
+- Asal sekolah : SMKN 7 KENDAL
+- Ketua Tim | Ahmad Syahrul Gunawan
+- Anggota Tim | Fallen Pradita
 
-Nama Tim: Smitty Werbenjagermanjensen
-
-Ketua Tim | Ahmad Syahrul Gunawan
-
-Anggota Tim | Fallen Pradita
-
-🏆 Kompetisi
+🏆 WebDev UINIC 8.0 
 Proyek ini dikembangkan untuk mengikuti UINIC 8.0 Web Development Competition.
 
 ---
