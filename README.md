@@ -24,19 +24,19 @@ Mincat × PKLsevka dikembangkan dengan pendekatan yang berorientasi pada kebutuh
 
 ✨ Fitur Utama
 
-1. Portofolio Digital Siswa
+1. Portofolio Digital Siswa -
 Menjadi sarana bagi siswa untuk menampilkan kompetensi, keterampilan, proyek, dan minat dan bakat.
 
-2. Verifikasi Portofolio
+2. Verifikasi Portofolio -
 Mendukung proses peninjauan portofolio oleh guru sebelum portofolio dipublikasikan.
 
-3. Informasi PKL
+3. Informasi PKL -
 Menyediakan informasi tempat PKL agar siswa dapat mengeksplorasi peluang yang sesuai dengan kompetensi dan minat mereka.
 
-4. Pencarian dan Penyaringan Informasi 
+4. Pencarian dan Penyaringan Informasi - 
 Membantu siswa menemukan informasi PKL berdasarkan kategori atau kriteria yang tersedia pada website.
 
-5. Pengenalan Kompetensi kepada Industri
+5. Pengenalan Kompetensi kepada Industri -
 Memungkinkan pihak industri melihat portofolio siswa yang telah dipublikasikan untuk mengenali kompetensi calon peserta PKL.
 
 👥 Target Pengguna
