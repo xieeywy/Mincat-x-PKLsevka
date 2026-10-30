@@ -3,9 +3,9 @@
 
 1. Informasi Proyek
 - Nama proyek: Mincat × PKLsevka
+- Tim : Smitty Werbenjagermanjensen
 - Tujuan: Mengembangkan platform yang membantu siswa mengakses informasi PKL serta menampilkan portofolio keterampilan mereka.
-- Periode pengembangan: 24 Oktober 2026 – 29 Oktober 2026
-- Penanggung jawab: Ahmad Syahrul Gunawan 
+- Periode pengembangan: 24 Oktober 2026 – 29 Oktober 2026 
 
 2. Tujuan Timeline
 Timeline ini digunakan sebagai acuan pelaksanaan kegiatan proyek, mulai dari identifikasi masalah hingga evaluasi akhir. Setiap tahapan memiliki target waktu dan luaran yang dapat diperiksa untuk membantu tim memantau kemajuan serta mengidentifikasi keterlambatan.
