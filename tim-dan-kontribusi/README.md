@@ -1,7 +1,7 @@
 #Tim dan Kontribusi — Mincat × PKLsevka
 ---
 1. Tentang Tim
-2. 
+   
 Project Mincat x PKLsevka dikembangkan oleh 2 developer utama
 
 - Ahmad Syahrul Gunawan
