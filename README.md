@@ -92,4 +92,4 @@ Proyek ini dikembangkan untuk mengikuti UINIC 8.0 Web Development Competition.
 ---
 
 MINCAT × PKLSEVKA
-find & be your journey
+find & be your journey 
