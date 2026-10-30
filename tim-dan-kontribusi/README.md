@@ -1,12 +1,14 @@
 #Tim dan Kontribusi — Mincat × PKLsevka
 ---
 1. Tentang Tim
+2. 
 Project Mincat x PKLsevka dikembangkan oleh 2 developer utama
 
 - Ahmad Syahrul Gunawan
 - Fallen Pradita
 
-Tim Smitty Werbenjagermanjensen asal sekolah SMK NEGERI 7 KENDAL, 
+Tim Smitty Werbenjagermanjensen asal sekolah SMK NEGERI 7 KENDAL
+
 Tim ini disiapkan untuk mengikuti kompetisi Web development UINIC 8.0 
 
 3. Tujuan Dokumentasi
