@@ -2,30 +2,20 @@
 ---
 
 1. Informasi Tim
-- Nama proyek: Mincat × PKLsevka
-- Asal sekolah: SMK Negeri 7 Kendal
-- Bidang proyek: Pengembangan platform informasi PKL dan portofolio keterampilan siswa
-- Periode pengerjaan: 24 Oktober 2026 - 29 Oktober 2026
-- Ketua tim: Ahmad Syahrul Gunawan
-
-2. Tujuan Pembagian Tugas
-Dokumen ini disusun untuk menjelaskan pembagian tanggung jawab setiap anggota tim dalam proses perencanaan, perancangan, pengembangan, pengujian, dan dokumentasi proyek Mincat × PKLsevka. Pembagian tugas bertujuan agar setiap pekerjaan memiliki penanggung jawab yang jelas, mengurangi tumpang tindih pekerjaan, serta mendukung penyelesaian proyek sesuai target yang telah ditetapkan.
-
-3. Daftar Anggota dan Tanggung Jawab
+- Nama proyek : Mincat × PKLsevka
+- Asal sekolah : SMK Negeri 7 Kendal
+- Bidang proyek : Pendidikan
+- Periode pengerjaan : 24 Oktober 2026 - 29 Oktober 2026
+  
+2. Daftar Anggota dan Tanggung Jawab
    
-1| Ahmad Syahrul Gunawan| Ketua Tim / Project Coordinator | Menyusun Proposal dan seluruh dokumen kebutuhan UINIC 8.0
+1 | Ahmad Syahrul Gunawan| Ketua Tim / Project Coordinator | Menyusun Proposal dan seluruh dokumen kebutuhan UINIC 8.0
 
-2| Fallen Pradita| Developer Website | UI/UX, Frontend, Backend, Devops.
-
-5. Mekanisme Koordinasi
-   
-1. Setiap anggota mengerjakan tugas berdasarkan kesepakatan dan target waktu tim.
-   
-2. Kendala yang berpotensi menghambat target disampaikan kepada ketua tim dan anggota terkait.
-   
-3. Setiap anggota saling membantu untuk meringankan dan mempercepat tugas anggota lainnya.
+2 | Fallen Pradita| Developer Website | UI/UX, Frontend, Backend, Devops.
 
 ---
 
-Terakhir diperbarui: 27 Oktober 2026
+Mincat x PKLsevka
+
+find & be your journey
 
