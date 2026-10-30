@@ -60,7 +60,6 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 📚 Dokumentasi Proyek
 
 - [Data PKL](./Data%20PKL/)
-- [Diagram Sistem dan User Flow](./Diagram%20sistem%20dan%20user%20flow/)
 - [Dokumentasi Website](./Dokumentasi%20website/)
 - [Riset Kebutuhan Pengguna](./riset-kebutuhan-pengguna/)
 - [Tim dan Kontribusi](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/tim-dan-kontribusi)
