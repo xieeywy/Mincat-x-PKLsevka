@@ -5,4 +5,5 @@ Website kami menggunakan sistem verifikasi admin untuk dapat login, sebagai sala
 
 Akun Siswa
 Username : UINIC
+
 Password : AKUNSISWAUINIC
