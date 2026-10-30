@@ -53,8 +53,6 @@ Dunia industri | Mengenali kompetensi siswa melalui portofolio yang dipublikasik
 🛠️ Teknologi yang Digunakan
 Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 
-- Frontend : WordPress 
-- Backend : Framework Laravel
 - Database : MySQL 
 - Framework/CMS : Wordpress 
 - Tools pengembangan: WordPress, Antigravity, Claude code, Chatgpt.
@@ -67,6 +65,7 @@ Teknologi yang digunakan dalam pengembangan proyek ini meliputi:
 - [Riset Kebutuhan Pengguna](./riset-kebutuhan-pengguna/)
 - [Tim dan Kontribusi](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/tim-dan-kontribusi)
 - [Akun untuk juri](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/Akun-Juri)
+- [sourcecode](https://github.com/xieeywy/Mincat-x-PKLsevka/tree/main/src)
   
 🚀 Demo Website : https://mincat.my.id
 
